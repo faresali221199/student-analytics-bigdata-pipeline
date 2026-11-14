@@ -10,7 +10,7 @@ This project implements an end-to-end Data Engineering pipeline that extracts st
 
 ## 🏗️ System Architecture
 
-![System Architecture](./Images/Untitled%20Diagram.gif)
+![System Architecture](./Project/Images/Untitled%20Diagram.gif)
 
 ---
 
@@ -126,7 +126,7 @@ LOCATION '/gold/school/student_analytics/';
 
 ## 📊 Power BI Dashboard & Analytical Insights
 
-![Student Performance & Analytics Dashboard](./Images/image.png)
+![Student Performance & Analytics Dashboard](./Project/Images/image.png)
 
 ### Key Performance Indicators (KPIs)
 * **Total Students:** `134K`
@@ -155,19 +155,20 @@ LOCATION '/gold/school/student_analytics/';
 ## 📂 Repository Structure
 
 ```text
-├── Images/
-│   ├── Untitled Diagram.gif       # End-to-End Big Data Architecture Diagram
-│   └── image.png                  # Power BI Interactive Dashboard Screenshot
-├── docker/
-│   └── docker-compose.yml         # Multi-container setup (MongoDB, Hadoop, Spark, Hive)
-├── spark_jobs/
-│   ├── 01_bronze_ingestion.py     # MongoDB to HDFS Bronze (Parquet)
-│   ├── 02_silver_transform.py     # Data cleaning & transformation to Silver (Parquet)
-│   └── 03_gold_modeling.py        # One Big Table (OBT) modeling to Gold (Parquet)
-├── hive/
-│   └── create_external_table.sql  # Hive DDL script for Gold External Table
-├── powerbi/
-│   └── Student_Analytics.pbix     # Power BI Dashboard file
+├── Project/
+│   ├── Images/
+│   │   ├── Untitled Diagram.gif   # End-to-End Big Data Architecture Diagram
+│   │   └── image.png              # Power BI Interactive Dashboard Screenshot
+│   ├── docker/
+│   │   └── docker-compose.yml     # Multi-container setup (MongoDB, Hadoop, Spark, Hive)
+│   ├── spark_jobs/
+│   │   ├── 01_bronze_ingestion.py # MongoDB to HDFS Bronze (Parquet)
+│   │   ├── 02_silver_transform.py # Data cleaning & transformation to Silver (Parquet)
+│   │   └── 03_gold_modeling.py    # One Big Table (OBT) modeling to Gold (Parquet)
+│   ├── hive/
+│   │   └── create_external_table.sql # Hive DDL script for Gold External Table
+│   └── powerbi/
+│       └── Student_Analytics.pbix # Power BI Dashboard file
 └── README.md
 ```
 
@@ -177,8 +178,8 @@ LOCATION '/gold/school/student_analytics/';
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/student-analytics-bigdata-pipeline.git](https://github.com/yourusername/student-analytics-bigdata-pipeline.git)
-   cd student-analytics-bigdata-pipeline
+   git clone [https://github.com/faresali221199/student-analytics-bigdata-pipeline.git](https://github.com/faresali221199/student-analytics-bigdata-pipeline.git)
+   cd student-analytics-bigdata-pipeline/Project
    ```
 2. **Start the Docker containers (MongoDB, Hadoop, Spark, Hive):**
    ```bash
