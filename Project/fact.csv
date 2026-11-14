@@ -1,0 +1,2593 @@
+student_id,name,department,age,city,date,status,math,python,gpa
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+13,Karim,Engineering,24,Giza,2026-10-02,Present,86,91,3.2
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+14,Salma,Computer Science,20,Cairo,2026-10-02,Present,67,74,3.8
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+15,Yara,Business,26,Alexandria,2026-10-02,Absent,72,74,3.4
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+16,Ziad,Engineering,22,Luxor,2026-10-02,Present,82,77,3.1
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+17,Farida,Medicine,19,Cairo,2026-10-02,Present,89,96,3.9
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+18,Hassan,Business,23,Giza,2026-10-02,Absent,79,84,3.0
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+19,Nada,Computer Science,21,Aswan,2026-10-02,Present,68,71,3.7
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+20,Rania,Engineering,24,Cairo,2026-10-02,Present,87,90,3.5
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+24,Dina,Medicine,150,Giza,2026-10-03,Present,65,72,3.8
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+25,Adel,Business,999,Cairo,2026-10-03,Absent,55,61,3.4
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+27,Aya,Computer Science,22,Cairo,2026-10-03,Present,76,80,3.5
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+28,Mahmoud,Engineering,23,Giza,2026-10-03,Absent,68,73,3.0
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+29,Reem,Medicine,21,Alexandria,2026-10-03,Present,82,91,3.7
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+30,Walid,Business,24,Luxor,2026-10-03,Present,77,81,3.2
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+31,Dalia,Computer Science,20,Aswan,2026-10-04,Present,79,84,3.7
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+32,Amr,Engineering,25,Cairo,2026-10-04,Present,89,86,3.6
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+33,Shaimaa,Medicine,19,Giza,2026-10-04,Absent,88,93,3.9
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+34,Tamer,Business,22,Alexandria,2026-10-04,Present,66,70,3.5
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+35,Heba,Computer Science,23,Luxor,2026-10-04,Absent,74,79,3.3
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+36,Ibrahim,Engineering,21,Aswan,2026-10-04,Present,81,78,3.7
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+37,Menna,Medicine,24,Cairo,2026-10-04,Present,69,74,3.6
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+38,Mostafa,Business,20,Giza,2026-10-04,Absent,88,90,3.4
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+39,Noor,Computer Science,26,Alexandria,2026-10-05,Present,85,90,3.5
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+40,Rana,Engineering,22,Luxor,2026-10-05,Present,76,82,3.9
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+41,Sherif,Medicine,19,Aswan,2026-10-05,Absent,78,82,3.2
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+42,Amina,Business,23,Cairo,2026-10-05,Present,69,75,3.6
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+43,Fady,Computer Science,21,Giza,2026-10-05,Present,87,94,3.4
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+44,Ghada,Engineering,24,Alexandria,2026-10-05,Absent,71,76,3.3
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+45,Hatem,Medicine,20,Luxor,2026-10-05,Present,80,85,3.5
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+46,Israa,Business,25,Aswan,2026-10-06,Present,87,91,3.7
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+47,Jana,Computer Science,19,Cairo,2026-10-06,Present,84,92,3.8
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+48,Kareem,Engineering,22,Giza,2026-10-06,Absent,63,68,3.5
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+49,Lina,Medicine,23,Alexandria,2026-10-06,Present,73,78,3.6
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+50,Marwan,Business,21,Luxor,2026-10-06,Absent,90,85,3.1
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+51,Nada,Computer Science,24,Aswan,2026-10-06,Present,76,81,3.7
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+52,Ola,Engineering,20,Cairo,2026-10-06,Present,74,79,3.8
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+53,Peter,Medicine,26,Giza,2026-10-06,Absent,82,88,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+54,Rania,Business,22,Alexandria,2026-10-07,Present,79,83,3.4
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+55,Samer,Computer Science,19,Luxor,2026-10-07,Absent,80,86,3.2
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+56,Tasneem,Engineering,23,Aswan,2026-10-07,Present,91,87,3.6
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+57,Usama,Medicine,21,Cairo,2026-10-07,Present,67,72,3.5
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+58,Viola,Business,24,Giza,2026-10-07,Absent,83,80,3.2
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+59,Wael,Computer Science,20,Alexandria,2026-10-07,Present,71,77,3.4
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+60,Yasmin,Engineering,25,Luxor,2026-10-07,Present,95,92,3.9
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+61,Zain,Medicine,19,Aswan,2026-10-07,Absent,63,68,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+62,Abdelrahman,Business,22,Cairo,2026-10-08,Present,84,88,3.3
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+63,Basma,Computer Science,23,Giza,2026-10-08,Present,83,89,3.7
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+64,Cyrine,Engineering,21,Alexandria,2026-10-08,Absent,73,77,3.8
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+65,Doaa,Medicine,24,Luxor,2026-10-08,Present,75,80,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+66,Ehab,Business,20,Aswan,2026-10-08,Absent,67,71,3.5
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+67,Fatma,Computer Science,26,Cairo,2026-10-08,Present,86,93,3.6
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+68,Gamal,Engineering,22,Giza,2026-10-08,Present,75,80,3.1
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+69,Hala,Medicine,19,Alexandria,2026-10-08,Absent,77,82,3.4
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+70,Islam,Business,23,Luxor,2026-10-09,Present,88,84,3.6
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+71,Jihad,Computer Science,21,Aswan,2026-10-09,Present,70,76,3.4
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+72,Kholoud,Engineering,24,Cairo,2026-10-09,Absent,90,93,3.8
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+73,Loay,Medicine,20,Giza,2026-10-09,Present,60,65,3.3
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+74,Mariam,Business,25,Alexandria,2026-10-09,Present,94,90,3.9
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+75,Nabil,Computer Science,19,Luxor,2026-10-09,Absent,65,70,3.2
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+76,Ola,Engineering,22,Aswan,2026-10-09,Present,81,85,3.4
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+77,Passant,Medicine,23,Cairo,2026-10-09,Present,82,87,3.5
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+78,Ramy,Business,21,Giza,2026-10-10,Present,72,76,3.2
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+79,Sondos,Computer Science,24,Alexandria,2026-10-10,Present,90,96,3.9
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+80,Tarek,Engineering,20,Luxor,2026-10-10,Absent,79,83,3.5
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+81,Abeer,Medicine,26,Aswan,2026-10-10,Present,78,84,3.6
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+82,Bilal,Business,22,Cairo,2026-10-10,Absent,68,73,3.7
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+83,Camelia,Computer Science,19,Giza,2026-10-10,Present,85,91,3.8
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+84,Diaa,Engineering,23,Alexandria,2026-10-10,Present,77,81,3.1
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+85,Eman,Medicine,21,Luxor,2026-10-10,Absent,68,73,3.4
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+86,Fouad,Business,24,Aswan,2026-10-11,Present,85,89,3.3
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+87,Gihan,Computer Science,20,Cairo,2026-10-11,Present,83,89,3.7
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+88,Hany,Engineering,25,Giza,2026-10-11,Absent,92,88,3.6
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+89,Iman,Medicine,19,Alexandria,2026-10-11,Present,66,71,3.5
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+90,Jamal,Business,22,Luxor,2026-10-11,Present,78,82,3.4
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+91,Karma,Computer Science,23,Aswan,2026-10-11,Absent,77,83,3.6
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+92,Lamia,Engineering,21,Cairo,2026-10-11,Present,90,86,3.8
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+93,Maged,Medicine,24,Giza,2026-10-11,Absent,61,66,3.3
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+94,Nesma,Business,20,Alexandria,2026-10-12,Present,95,91,3.9
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+95,Osama,Computer Science,26,Luxor,2026-10-12,Present,82,88,3.5
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+96,Rasha,Engineering,22,Aswan,2026-10-12,Absent,74,79,3.4
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+97,Sameh,Medicine,19,Cairo,2026-10-12,Present,75,80,3.6
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+98,Tamer,Business,23,Giza,2026-10-12,Absent,69,74,3.2
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+99,Vivian,Computer Science,21,Alexandria,2026-10-12,Present,80,86,3.7
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+100,Youssef,Engineering,24,Luxor,2026-10-12,Present,92,89,3.6
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+1,Mohamed,Computer Science,22,Cairo,2026-10-01,Present,90,87,3.5
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+2,Ahmed,Engineering,23,Giza,2026-10-01,Absent,80,76,3.2
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+3,Mai,Medicine,21,Alexandria,2026-10-01,Present,84,88,3.8
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+4,Sara,Computer Science,24,Cairo,2026-10-01,Present,75,90,3.6
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+5,Omar,Business,22,Luxor,2026-10-01,Absent,70,95,3.1
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+6,Youssef,Engineering,20,Aswan,2026-10-01,Present,70,88,3.4
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+7,Hana,Medicine,19,Cairo,2026-10-01,Present,95,85,3.9
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+8,Tarek,Business,25,Giza,2026-10-01,Absent,60,72,3.0
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+9,Nour,Computer Science,22,Alexandria,2026-10-01,Present,83,92,3.7
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+10,Laila,Engineering,23,Cairo,2026-10-01,Present,78,81,3.5
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+11,Bassem,Business,27,Luxor,2026-10-02,Present,85,83,3.3
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6
+12,Farah,Medicine,21,Aswan,2026-10-02,Absent,88,79,3.6

@@ -1,0 +1,126 @@
+
+db.students.insertMany([
+    { student_id: 1,  name: "Mohamed", age: 22, city: "Cairo",      gpa: 3.5, department: "Computer Science", school: "Cairo University" },
+    { student_id: 2,  name: "Ahmed",   age: 23, city: "Giza",       gpa: 3.2, department: "Engineering",      school: "Cairo University" },
+    { student_id: 3,  name: "Mai",     age: 21, city: "Alexandria", gpa: 3.8, department: "Medicine",         school: "Alexandria University" },
+    { student_id: 4,  name: "Sara",    age: 24, city: "Cairo",      gpa: 3.6, department: "Computer Science", school: "Cairo University" },
+    { student_id: 5,  name: "Omar",    age: 22, city: "Luxor",      gpa: 3.1, department: "Business",         school: "South Valley University" },
+    { student_id: 6,  name: "Youssef", age: 20, city: "Aswan",      gpa: 3.4, department: "Engineering",      school: "Aswan University" },
+    { student_id: 7,  name: "Hana",    age: 19, city: "Cairo",      gpa: 3.9, department: "Medicine",         school: "Cairo University" },
+    { student_id: 8,  name: "Tarek",   age: 25, city: "Giza",       gpa: 3.0, department: "Business",         school: "Cairo University" },
+    { student_id: 9,  name: "Nour",    age: 22, city: "Alexandria", gpa: 3.7, department: "Computer Science", school: "Alexandria University" },
+    { student_id: 10, name: "Laila",   age: 23, city: "Cairo",      gpa: 3.5, department: "Engineering",      school: "Cairo University" },
+
+    { student_id: 11, name: "Bassem",  age: 27, city: "Luxor",      gpa: 3.3, email: "bassem11@school.edu",   phone: "01000000011", gender: "Male",   level: 5, department: "Business",         school: "South Valley University" },
+    { student_id: 12, name: "Farah",   age: 21, city: "Aswan",      gpa: 3.6, email: "farah12@school.edu",    phone: "01000000012", gender: "Female", level: 2, department: "Medicine",         school: "Aswan University" },
+    { student_id: 13, name: "Karim",   age: 24, city: "Giza",       gpa: 3.2, email: "karim13@school.edu",    phone: "01000000013", gender: "Male",   level: 4, department: "Engineering",      school: "Cairo University" },
+    { student_id: 14, name: "Salma",   age: 20, city: "Cairo",      gpa: 3.8, email: "salma14@school.edu",    phone: "01000000014", gender: "Female", level: 2, department: "Computer Science", school: "Cairo University" },
+    { student_id: 15, name: "Yara",    age: 26, city: "Alexandria", gpa: 3.4, email: "yara15@school.edu",     phone: "01000000015", gender: "Female", level: 5, department: "Business",         school: "Alexandria University" },
+
+    { student_id: 16, name: "Ziad",    age: 22, city: "Luxor",      gpa: 3.1, department: "Engineering",      school: "South Valley University" },
+    { student_id: 17, name: "Farida",  age: 19, city: "Cairo",      gpa: 3.9, department: "Medicine",         school: "Cairo University" },
+    { student_id: 18, name: "Hassan",  age: 23, city: "Giza",       gpa: 3.0, department: "Business",         school: "Cairo University" },
+    { student_id: 19, name: "Nada",    age: 21, city: "Aswan",      gpa: 3.7, department: "Computer Science", school: "Aswan University" },
+    { student_id: 20, name: "Rania",   age: 24, city: "Cairo",      gpa: 3.5, department: "Engineering",      school: "Cairo University" },
+
+    { student_id: 21, name: "Khaled",  age: -5,  city: "Giza",       gpa: 3.2, email: "khaled21@school.edu",   phone: "01000000021", gender: "Male",   level: 3, department: "Business",         school: "Cairo University" },
+    { student_id: 22, name: "Mona",    age: -1,  city: "Cairo",      gpa: 3.6, email: "mona22@school.edu",     phone: "01000000022", gender: "Female", level: 2, department: "Computer Science", school: "Cairo University" },
+    { student_id: 23, name: "Ramy",    age: 0,   city: "Aswan",      gpa: 3.3, email: "ramy23@school.edu",     phone: "01000000023", gender: "Male",   level: 1, department: "Engineering",      school: "Aswan University" },
+    { student_id: 24, name: "Dina",    age: 150, city: "Giza",       gpa: 3.8, email: "dina24@school.edu",     phone: "01000000024", gender: "Female", level: 4, department: "Medicine",         school: "Cairo University" },
+    { student_id: 25, name: "Adel",    age: 999, city: "Cairo",      gpa: 3.4, email: "adel25@school.edu",     phone: "01000000025", gender: "Male",   level: 5, department: "Business",         school: "Cairo University" },
+    { student_id: 26, name: "Sami",    age: null, city: "Luxor",     gpa: 3.1, email: "sami26@school.edu",     phone: "01000000026", gender: "Male",   level: 3, department: "Engineering",      school: "South Valley University" },
+
+    { student_id: 27, name: "Aya",     age: 22, city: "Cairo",      gpa: 3.5, department: "Computer Science", school: "Cairo University" },
+    { student_id: 28, name: "Mahmoud", age: 23, city: "Giza",       gpa: 3.0, department: "Engineering",      school: "Cairo University" },
+    { student_id: 29, name: "Reem",    age: 21, city: "Alexandria", gpa: 3.7, department: "Medicine",         school: "Alexandria University" },
+    { student_id: 30, name: "Walid",   age: 24, city: "Luxor",      gpa: 3.2, department: "Business",         school: "South Valley University" },
+
+    { student_id: 31, name: "Dalia",   age: 20, city: "Aswan",      gpa: 3.7, email: "dalia31@school.edu",    phone: "01000000031", gender: "Female", level: 2, department: "Computer Science", school: "Aswan University" },
+    { student_id: 32, name: "Amr",     age: 25, city: "Cairo",      gpa: 3.6, email: "amr32@school.edu",      phone: "01000000032", gender: "Male",   level: 5, department: "Engineering",      school: "Cairo University" },
+    { student_id: 33, name: "Shaimaa", age: 19, city: "Giza",       gpa: 3.9, email: "shaimaa33@school.edu",  phone: "01000000033", gender: "Female", level: 1, department: "Medicine",         school: "Cairo University" },
+
+    { student_id: 34, name: "Tamer",   age: 22, city: "Alexandria", gpa: 3.5, department: "Business",         school: "Alexandria University" },
+    { student_id: 35, name: "Heba",    age: 23, city: "Luxor",      gpa: 3.3, department: "Computer Science", school: "South Valley University" },
+    { student_id: 36, name: "Ibrahim", age: 21, city: "Aswan",      gpa: 3.7, department: "Engineering",      school: "Aswan University" },
+    { student_id: 37, name: "Menna",   age: 24, city: "Cairo",      gpa: 3.6, department: "Medicine",         school: "Cairo University" },
+    { student_id: 38, name: "Mostafa", age: 20, city: "Giza",       gpa: 3.4, department: "Business",         school: "Cairo University" },
+
+    { student_id: 39, name: "Noor",    age: 26, city: "Alexandria", gpa: 3.5, email: "noor39@school.edu",     phone: "01000000039", gender: "Female", level: 5, department: "Computer Science", school: "Alexandria University" },
+    { student_id: 40, name: "Rana",    age: 22, city: "Luxor",      gpa: 3.9, email: "rana40@school.edu",     phone: "01000000040", gender: "Female", level: 3, department: "Engineering",      school: "South Valley University" },
+
+    { student_id: 41, name: "Sherif",  age: 19, city: "Aswan",      gpa: 3.2, department: "Medicine",         school: "Aswan University" },
+    { student_id: 42, name: "Amina",   age: 23, city: "Cairo",      gpa: 3.6, department: "Business",         school: "Cairo University" },
+    { student_id: 43, name: "Fady",    age: 21, city: "Giza",       gpa: 3.4, department: "Computer Science", school: "Cairo University" },
+    { student_id: 44, name: "Ghada",   age: 24, city: "Alexandria", gpa: 3.3, department: "Engineering",      school: "Alexandria University" },
+    { student_id: 45, name: "Hatem",   age: 20, city: "Luxor",      gpa: 3.5, department: "Medicine",         school: "South Valley University" },
+
+    { student_id: 46, name: "Israa",   age: 25, city: "Aswan",      gpa: 3.7, email: "israa46@school.edu",    phone: "01000000046", gender: "Female", level: 5, department: "Business",         school: "Aswan University" },
+    { student_id: 47, name: "Jana",    age: 19, city: "Cairo",      gpa: 3.8, email: "jana47@school.edu",     phone: "01000000047", gender: "Female", level: 1, department: "Computer Science", school: "Cairo University" },
+    { student_id: 48, name: "Kareem",  age: 22, city: "Giza",       gpa: 3.5, email: "kareem48@school.edu",   phone: "01000000048", gender: "Male",   level: 3, department: "Engineering",      school: "Cairo University" },
+
+    { student_id: 49, name: "Lina",    age: 23, city: "Alexandria", gpa: 3.6, department: "Medicine",         school: "Alexandria University" },
+    { student_id: 50, name: "Marwan",  age: 21, city: "Luxor",      gpa: 3.1, department: "Business",         school: "South Valley University" },
+    { student_id: 51, name: "Nada",    age: 24, city: "Aswan",      gpa: 3.7, department: "Computer Science", school: "Aswan University" },
+    { student_id: 52, name: "Ola",     age: 20, city: "Cairo",      gpa: 3.8, department: "Engineering",      school: "Cairo University" },
+    { student_id: 53, name: "Peter",   age: 26, city: "Giza",       gpa: 3.4, department: "Medicine",         school: "Cairo University" },
+
+    { student_id: 54, name: "Rania",   age: 22, city: "Alexandria", gpa: 3.4, email: "rania54@school.edu",    phone: "01000000054", gender: "Female", level: 3, department: "Business",         school: "Alexandria University" },
+    { student_id: 55, name: "Samer",   age: 19, city: "Luxor",      gpa: 3.2, email: "samer55@school.edu",    phone: "01000000055", gender: "Male",   level: 1, department: "Computer Science", school: "South Valley University" },
+    { student_id: 56, name: "Tasneem", age: 23, city: "Aswan",      gpa: 3.6, email: "tasneem56@school.edu",  phone: "01000000056", gender: "Female", level: 4, department: "Engineering",      school: "Aswan University" },
+
+    { student_id: 57, name: "Usama",   age: 21, city: "Cairo",      gpa: 3.5, department: "Medicine",         school: "Cairo University" },
+    { student_id: 58, name: "Viola",   age: 24, city: "Giza",       gpa: 3.2, department: "Business",         school: "Cairo University" },
+    { student_id: 59, name: "Wael",    age: 20, city: "Alexandria", gpa: 3.4, department: "Computer Science", school: "Alexandria University" },
+    { student_id: 60, name: "Yasmin",  age: 25, city: "Luxor",      gpa: 3.9, department: "Engineering",      school: "South Valley University" },
+    { student_id: 61, name: "Zain",    age: 19, city: "Aswan",      gpa: 3.3, department: "Medicine",         school: "Aswan University" },
+
+    { student_id: 62, name: "Abdelrahman", age: 22, city: "Cairo",  gpa: 3.3, email: "abdel62@school.edu",    phone: "01000000062", gender: "Male",   level: 3, department: "Business",         school: "Cairo University" },
+    { student_id: 63, name: "Basma",   age: 23, city: "Giza",       gpa: 3.7, email: "basma63@school.edu",    phone: "01000000063", gender: "Female", level: 4, department: "Computer Science", school: "Cairo University" },
+    { student_id: 64, name: "Cyrine",  age: 21, city: "Alexandria", gpa: 3.8, email: "cyrine64@school.edu",   phone: "01000000064", gender: "Female", level: 2, department: "Engineering",      school: "Alexandria University" },
+
+    { student_id: 65, name: "Doaa",    age: 24, city: "Luxor",      gpa: 3.5, department: "Medicine",         school: "South Valley University" },
+    { student_id: 66, name: "Ehab",    age: 20, city: "Aswan",      gpa: 3.5, department: "Business",         school: "Aswan University" },
+    { student_id: 67, name: "Fatma",   age: 26, city: "Cairo",      gpa: 3.6, department: "Computer Science", school: "Cairo University" },
+    { student_id: 68, name: "Gamal",   age: 22, city: "Giza",       gpa: 3.1, department: "Engineering",      school: "Cairo University" },
+    { student_id: 69, name: "Hala",    age: 19, city: "Alexandria", gpa: 3.4, department: "Medicine",         school: "Alexandria University" },
+
+    { student_id: 70, name: "Islam",   age: 23, city: "Luxor",      gpa: 3.6, email: "islam70@school.edu",    phone: "01000000070", gender: "Male",   level: 4, department: "Business",         school: "South Valley University" },
+    { student_id: 71, name: "Jihad",   age: 21, city: "Aswan",      gpa: 3.4, email: "jihad71@school.edu",    phone: "01000000071", gender: "Male",   level: 2, department: "Computer Science", school: "Aswan University" },
+    { student_id: 72, name: "Kholoud", age: 24, city: "Cairo",      gpa: 3.8, email: "kholoud72@school.edu",  phone: "01000000072", gender: "Female", level: 4, department: "Engineering",      school: "Cairo University" },
+
+    { student_id: 73, name: "Loay",    age: 20, city: "Giza",       gpa: 3.3, department: "Medicine",         school: "Cairo University" },
+    { student_id: 74, name: "Mariam",  age: 25, city: "Alexandria", gpa: 3.9, department: "Business",         school: "Alexandria University" },
+    { student_id: 75, name: "Nabil",   age: 19, city: "Luxor",      gpa: 3.2, department: "Computer Science", school: "South Valley University" },
+    { student_id: 76, name: "Ola",     age: 22, city: "Aswan",      gpa: 3.4, department: "Engineering",      school: "Aswan University" },
+    { student_id: 77, name: "Passant", age: 23, city: "Cairo",      gpa: 3.5, department: "Medicine",         school: "Cairo University" },
+
+    { student_id: 78, name: "Ramy",    age: 21, city: "Giza",       gpa: 3.2, email: "ramy78@school.edu",     phone: "01000000078", gender: "Male",   level: 2, department: "Business",         school: "Cairo University" },
+    { student_id: 79, name: "Sondos",  age: 24, city: "Alexandria", gpa: 3.9, email: "sondos79@school.edu",   phone: "01000000079", gender: "Female", level: 4, department: "Computer Science", school: "Alexandria University" },
+    { student_id: 80, name: "Tarek",   age: 20, city: "Luxor",      gpa: 3.5, email: "tarek80@school.edu",    phone: "01000000080", gender: "Male",   level: 2, department: "Engineering",      school: "South Valley University" },
+
+    { student_id: 81, name: "Abeer",   age: 26, city: "Aswan",      gpa: 3.6, department: "Medicine",         school: "Aswan University" },
+    { student_id: 82, name: "Bilal",   age: 22, city: "Cairo",      gpa: 3.7, department: "Business",         school: "Cairo University" },
+    { student_id: 83, name: "Camelia", age: 19, city: "Giza",       gpa: 3.8, department: "Computer Science", school: "Cairo University" },
+    { student_id: 84, name: "Diaa",    age: 23, city: "Alexandria", gpa: 3.1, department: "Engineering",      school: "Alexandria University" },
+    { student_id: 85, name: "Eman",    age: 21, city: "Luxor",      gpa: 3.4, department: "Medicine",         school: "South Valley University" },
+
+    { student_id: 86, name: "Fouad",   age: 24, city: "Aswan",      gpa: 3.3, email: "fouad86@school.edu",    phone: "01000000086", gender: "Male",   level: 4, department: "Business",         school: "Aswan University" },
+    { student_id: 87, name: "Gihan",   age: 20, city: "Cairo",      gpa: 3.7, email: "gihan87@school.edu",    phone: "01000000087", gender: "Female", level: 2, department: "Computer Science", school: "Cairo University" },
+    { student_id: 88, name: "Hany",    age: 25, city: "Giza",       gpa: 3.6, email: "hany88@school.edu",     phone: "01000000088", gender: "Male",   level: 5, department: "Engineering",      school: "Cairo University" },
+
+    { student_id: 89, name: "Iman",    age: 19, city: "Alexandria", gpa: 3.5, department: "Medicine",         school: "Alexandria University" },
+    { student_id: 90, name: "Jamal",   age: 22, city: "Luxor",      gpa: 3.4, department: "Business",         school: "South Valley University" },
+    { student_id: 91, name: "Karma",   age: 23, city: "Aswan",      gpa: 3.6, department: "Computer Science", school: "Aswan University" },
+    { student_id: 92, name: "Lamia",   age: 21, city: "Cairo",      gpa: 3.8, department: "Engineering",      school: "Cairo University" },
+    { student_id: 93, name: "Maged",   age: 24, city: "Giza",       gpa: 3.3, department: "Medicine",         school: "Cairo University" },
+
+    { student_id: 94, name: "Nesma",   age: 20, city: "Alexandria", gpa: 3.9, email: "nesma94@school.edu",    phone: "01000000094", gender: "Female", level: 2, department: "Business",         school: "Alexandria University" },
+    { student_id: 95, name: "Osama",   age: 26, city: "Luxor",      gpa: 3.5, email: "osama95@school.edu",    phone: "01000000095", gender: "Male",   level: 5, department: "Computer Science", school: "South Valley University" },
+    { student_id: 96, name: "Rasha",   age: 22, city: "Aswan",      gpa: 3.4, email: "rasha96@school.edu",    phone: "01000000096", gender: "Female", level: 3, department: "Engineering",      school: "Aswan University" },
+
+    { student_id: 97, name: "Sameh",   age: 19, city: "Cairo",      gpa: 3.6, department: "Medicine",         school: "Cairo University" },
+    { student_id: 98, name: "Tamer",   age: 23, city: "Giza",       gpa: 3.2, department: "Business",         school: "Cairo University" },
+    { student_id: 99, name: "Vivian",  age: 21, city: "Alexandria", gpa: 3.7, department: "Computer Science", school: "Alexandria University" },
+
+    { student_id: 100, name: "Youssef", age: 24, city: "Luxor",     gpa: 3.6, email: "youssef100@school.edu", phone: "01000000100", gender: "Male",   level: 4, department: "Engineering",      school: "South Valley University" }
+])

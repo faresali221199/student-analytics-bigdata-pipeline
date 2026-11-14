@@ -1,0 +1,183 @@
+select 'welcome to hive'
+
+
+---- Managed Table
+create table employees
+(
+   id int, 
+   name string
+)
+
+insert into employees values (1, 'ahmed'), (2, 'nada')
+
+
+drop table employees 
+
+select * from employees
+
+-----------------------------------
+---- Extrnal Table
+
+create external table employees2
+(
+  id string,
+  name string,
+  age string,
+  city string
+)
+stored as parquet
+location '/session/employees'
+
+select * from employees2
+
+insert into employees2 values ('4', 'youssef', '19', 'alex')
+
+
+
+drop table employees2
+
+-- deleted metadata
+-- no delete values 
+
+drop table employees2
+
+
+--- Table  ----> View select * from employee
+---  insert update delete view 
+
+
+select * from employees2
+
+
+select upper(name), cast (age as int) + 15 from employees2
+
+
+drop table  employees2
+
+truncate table employees2
+
+delete * from employees2
+
+
+-------- No Delete
+-- Just insert and update 
+
+drop table employees3
+create external table employees3
+(
+  id string,
+  name string,
+  age string
+)
+partitioned by ( city string)
+stored as parquet
+location '/session/employees2'
+
+select * from employees3
+
+
+
+---------------------- Project ---------------
+create schema bronze
+
+create external table bronze.students
+(
+  student_id string,
+  name string,
+  age string,
+  city string,
+  gpa string,
+  department string
+)
+stored as parquet
+location '/project/bronze/students'
+
+create external table bronze.grades
+(
+  student_id string,
+  math string,
+  python string
+)
+stored as parquet
+location '/project/bronze/grades'
+
+
+select * from bronze.grades
+
+create external table bronze.attendances
+(
+  student_id string,
+  `date` string,
+  status string
+)
+stored as parquet
+location '/project/bronze/attendances'
+
+select * from bronze.attendances
+
+
+
+create schema silver
+
+create external table silver.students
+(
+  student_id int,
+  name string,
+  age int,
+  city string,
+  gpa float,
+  department string
+)
+stored as parquet
+location '/project/silver/students'
+
+select * from silver.students
+
+create external table silver.grades
+(
+  student_id int,
+  math int,
+  python int
+)
+stored as parquet
+location '/project/silver/grades'
+
+
+select * from silver.grades
+
+create external table silver.attendances
+(
+  student_id int,
+  `date` date,
+  status string
+)
+stored as parquet
+location '/project/silver/attendances'
+
+select * from silver.attendances
+
+create schema gold
+
+create external table gold.fact
+(
+  student_id int ,
+  name string,
+  age int,
+  city string,
+  department string,
+  `date` date,
+  status string, 
+  math int,
+  python int,
+  gpa float
+)
+stored as parquet
+location '/project/gold/fact'
+
+-------------------------------
+select * from gold.fact
+
+select * from gold.fact
+
+select  * from gold.fact
+
