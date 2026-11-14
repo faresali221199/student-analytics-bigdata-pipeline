@@ -1,44 +1,49 @@
-# 🎓 Student Data Engineering Pipeline
+# 🎓 Student Data Engineering & Analytics Pipeline
 
 ## 📌 Project Overview
 
-This project implements an end-to-end Data Engineering pipeline that extracts student information, academic grades, and attendance records from MongoDB, processes the data using PySpark, and stores it in HDFS using the **Medallion Architecture (Bronze, Silver, and Gold)**.
+This project implements an end-to-end Data Engineering pipeline that extracts student profiles, academic grades, and attendance records from **MongoDB**, processes and transforms the data using **PySpark**, and stores it in **HDFS** following the **Medallion Architecture (Bronze, Silver, and Gold)** in columnar **Parquet** format.
 
-Apache Hive provides external tables for querying the processed datasets, while Microsoft Power BI connects to the analytical data to build an interactive Student Performance Dashboard.
+**Apache Hive** provides external tables for SQL querying over the processed datasets, while **Microsoft Power BI** connects to the analytical layer to deliver an interactive **Student Performance & Analytics Dashboard**—all running inside a containerized **Docker** environment.
 
-The project demonstrates how to build a scalable data pipeline that transforms raw data into meaningful insights for academic performance and attendance monitoring.
+---
 
-## 🏗️ Architecture
+## 🏗️ System Architecture
 
-![image.png](./Images/Untitled%20Diagram%20(3).gif)
+![System Architecture](./Images/Untitled%20Diagram.gif)
+
+---
 
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
-|---|---|
-| MongoDB | Source database for student information, grades, and attendance |
-| Python | Data extraction and pipeline development |
-| PySpark | Distributed data processing, cleaning, transformation, and integration |
-| HDFS | Distributed storage for the Bronze, Silver, and Gold layers |
-| Apache Hive | SQL querying and external table management |
-| Docker & Docker Compose | Running the data engineering environment |
-| Power BI Desktop | Interactive dashboards and analytical reporting |
+| :--- | :--- |
+| **MongoDB** | Source database (`school`) storing student info, grades, and attendance collections |
+| **Python & PySpark** | Distributed data ingestion, cleaning, transformation, and One Big Table (OBT) modeling |
+| **Apache Hadoop (HDFS)** | Distributed storage for the Bronze, Silver, and Gold layers in Parquet format |
+| **Apache Hive** | SQL querying engine and External Table management over HDFS |
+| **Docker & Docker Compose** | Containerized deployment of the Big Data infrastructure |
+| **Power BI Desktop** | Interactive dashboards, KPI tracking, and Data Mining |
+
+---
 
 ## 📂 Source Database
 
 **Database:** `school` (MongoDB)
 
-The database contains three collections:
+The pipeline ingests three semi-structured collections:
+* **`students`:** `student_id`, `name`, `age`, `city`, `department`, `gpa`
+* **`grades`:** `student_id`, `math`, `python`
+* **`attendances`:** `student_id`, `date`, `status` (`Present` / `Absent`)
 
-- **students:** `student_id`, `name`, `age`, `city`, `gpa`
-- **grades:** `student_id`, `math`, `python`
-- **attendances:** `student_id`, `date`, `status` (Present/Absent)
+---
 
 ## 🥉 Bronze Layer — Raw Data
 
-**Storage:** HDFS
+* **Storage:** HDFS (`Parquet` format)
+* **Processing:** PySpark
 
-Stores raw data extracted from MongoDB using PySpark, preserving source values.
+Ingests raw data directly from MongoDB collections without schema alterations, preserving full historical fidelity.
 
 ```text
 /bronze/school/students/
@@ -46,11 +51,14 @@ Stores raw data extracted from MongoDB using PySpark, preserving source values.
 /bronze/school/attendances/
 ```
 
-## 🥈 Silver Layer — Cleaned Data
+---
 
-**Storage:** HDFS | **Processing:** PySpark
+## 🥈 Silver Layer — Cleaned & Standardized Data
 
-Cleans and validates data by handling missing values, removing duplicates, standardizing data types, and checking data quality.
+* **Storage:** HDFS (`Parquet` format)
+* **Processing:** PySpark
+
+Cleanses and validates records by handling missing values, removing duplicates, standardizing data types, and running data quality checks.
 
 ```text
 /silver/school/students/
@@ -58,11 +66,14 @@ Cleans and validates data by handling missing values, removing duplicates, stand
 /silver/school/attendances/
 ```
 
-## 🥇 Gold Layer — Integrated Data
+---
 
-**Storage:** HDFS | **Processing:** PySpark
+## 🥇 Gold Layer — Integrated Analytical Model (One Big Table)
 
-Joins the cleaned datasets using `student_id` to create a single analytical dataset containing student details, grades, and attendance.
+* **Storage:** HDFS (`Parquet` format)
+* **Processing:** PySpark
+
+Joins the cleaned Silver datasets on `student_id` into a denormalized **One Big Table (OBT)** optimized for analytical workloads and Business Intelligence.
 
 ```text
 /gold/school/student_analytics/
@@ -70,94 +81,111 @@ Joins the cleaned datasets using `student_id` to create a single analytical data
 
 ### Gold Table Schema
 
-| Column | Description |
-|---|---|
-| `student_id` | Student identifier |
-| `name` | Student name |
-| `age` | Student age |
-| `city` | Student city |
-| `gpa` | Student GPA |
-| `math` | Mathematics score |
-| `python` | Python score |
-| `date` | Attendance date |
-| `status` | Attendance status |
+| Column | Type | Description |
+| :--- | :--- | :--- |
+| `student_id` | `INT` | Unique student identifier |
+| `name` | `STRING` | Student full name |
+| `age` | `INT` | Student age |
+| `city` | `STRING` | Student city (*Cairo, Giza, Alexandria, Luxor, Aswan*) |
+| `department` | `STRING` | Academic department (*Computer Science, Medicine, Engineering, Business*) |
+| `gpa` | `DOUBLE` | Cumulative GPA (`3.0` – `4.0`) |
+| `math` | `DOUBLE` | Mathematics exam score |
+| `python` | `DOUBLE` | Python programming score |
+| `date` | `DATE` | Attendance record date |
+| `status` | `STRING` | Attendance status (`Present` / `Absent`) |
 
-### Example Analytical Questions
-
-The Gold dataset can support analysis such as:
-
-- Which students have the highest GPA?
-- What is the average Mathematics score?
-- What is the average Python score?
-- Which students were absent?
-- Which cities have the highest average GPA?
-- Is attendance associated with academic performance?
+---
 
 ## 🗄️ Apache Hive Integration
 
-Apache Hive provides SQL access to the datasets stored in HDFS through external tables.
-
-Create an external table for each Bronze, Silver, and Gold dataset, pointing each table to its corresponding HDFS directory.
-
-Example:
+Apache Hive provides SQL access to the datasets stored in HDFS through **External Tables**, pointing directly to the corresponding HDFS directories without duplicating storage.
 
 ```sql
-CREATE EXTERNAL TABLE students_silver (
+CREATE EXTERNAL TABLE IF NOT EXISTS student_analytics_gold (
     student_id INT,
     name STRING,
     age INT,
     city STRING,
-    gpa DOUBLE
+    department STRING,
+    gpa DOUBLE,
+    math DOUBLE,
+    python DOUBLE,
+    attendance_date DATE,
+    status STRING
 )
 STORED AS PARQUET
-LOCATION '/silver/school/students';
+LOCATION '/gold/school/student_analytics/';
 ```
 
-Repeat the process for the Silver grades, Silver attendance, and Gold analytical datasets using their corresponding schemas and HDFS locations.
+**Why External Tables?**
+* Hive queries Parquet files directly in HDFS without copying data into Hive-managed storage.
+* Data remains decoupled and accessible to Spark and other compatible processing engines.
+* Provides a standard SQL interface for downstream BI tools like Power BI.
 
-**Why external tables?**
+---
 
-- Hive can query files already stored in HDFS.
-- Data does not need to be copied into a separate Hive-managed storage directory.
-- The HDFS data remains accessible to other compatible processing tools.
-- Hive tables provide a SQL interface for downstream analytics.
+## 📊 Power BI Dashboard & Analytical Insights
 
-The Gold external table acts as the primary dataset for the Power BI dashboard.
-## 📊 Power BI Dashboard Design
+![Student Performance & Analytics Dashboard](./Images/image.png)
 
-**Dashboard Title:** Student Performance & Attendance Analytics
+### Key Performance Indicators (KPIs)
+* **Total Students:** `134K`
+* **Average GPA:** `3.50`
+* **Average Age:** `33.67`
+* **Average Math Score:** `78.28`
+* **Average Python Score:** `82.13`
+* **Total Departments:** `4`
 
-**Design:** Clean white background, dark navy titles, blue accents, and consistent spacing.
+### Dashboard Breakdown & Visuals
+* **Interactive Slicers:** Dynamic filtering by **Department** (*Business, Computer Science, Engineering, Medicine*), **City** (*Alexandria, Aswan, Cairo, Giza, Luxor*), and **Date Range** (`01/10/2026` – `12/10/2026`).
+* **Average GPA by Department:** Compares academic standing across all four faculties, led by **Computer Science** and **Medicine**.
+* **Average Math vs. Python by Department:** Highlights technical performance across departments, showing consistently stronger averages in **Python (`82.13`)** compared to **Math (`78.28`)**.
+* **GPA Distribution:** Histogram illustrating student concentration across GPA brackets (`3.0` to `4.0`), peaking near `3.5`.
+* **Students Distribution by Status:** Donut chart tracking attendance distribution (`66.67%` Present vs. `33.33%` Absent).
+* **Number of Students by City:** Geographic distribution across major Egyptian cities, led by **Cairo** and **Giza**.
 
-### Dashboard — Student Overview
+### Analytical Questions Answered
+* Which departments achieve the highest average GPA and technical scores?
+* How does student performance in Python compare to Mathematics across different majors?
+* What is the overall attendance rate (`Present` vs. `Absent`), and how does it correlate with academic standing?
+* How is the student body distributed across major cities?
 
-**KPI Cards:**
-- Total Students
-- Average GPA
-- Average Mathematics Score
-- Average Python Score
-- Attendance Rate
+---
 
-**Visualizations:**
-- **Students by City:** Bar chart showing student distribution.
-- **Academic Performance:** Clustered bar chart comparing Mathematics and Python scores.
-- **Attendance Distribution:** Donut chart showing Present vs. Absent records.
-- **Student Summary:** Table containing name, city, GPA, grades, and attendance status.
-
-**Slicers:** City, Attendance Status, and Attendance Date.
-
-**Suggested Layout:**
+## 📂 Repository Structure
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│ STUDENT PERFORMANCE & ATTENDANCE ANALYTICS           │
-├──────────┬──────────┬──────────┬──────────┬──────────┤
-│ Students │ Avg GPA  │ Avg Math │ Avg Python│ Attendance│
-├────────────────────────┬────────────────────────────┤
-│ Students by City       │ Academic Performance        │
-│ Bar Chart              │ Clustered Bar Chart         │
-├────────────────────────┼────────────────────────────┤
-│ Attendance Distribution│ Student Summary Table       │
-│ Donut Chart            │ Name, GPA, Grades, Status   │
-└────────────────────────┴────────────────────────────┘
+├── Images/
+│   ├── Untitled Diagram.gif       # End-to-End Big Data Architecture Diagram
+│   └── image.png                  # Power BI Interactive Dashboard Screenshot
+├── docker/
+│   └── docker-compose.yml         # Multi-container setup (MongoDB, Hadoop, Spark, Hive)
+├── spark_jobs/
+│   ├── 01_bronze_ingestion.py     # MongoDB to HDFS Bronze (Parquet)
+│   ├── 02_silver_transform.py     # Data cleaning & transformation to Silver (Parquet)
+│   └── 03_gold_modeling.py        # One Big Table (OBT) modeling to Gold (Parquet)
+├── hive/
+│   └── create_external_table.sql  # Hive DDL script for Gold External Table
+├── powerbi/
+│   └── Student_Analytics.pbix     # Power BI Dashboard file
+└── README.md
 ```
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/student-analytics-bigdata-pipeline.git](https://github.com/yourusername/student-analytics-bigdata-pipeline.git)
+   cd student-analytics-bigdata-pipeline
+   ```
+2. **Start the Docker containers (MongoDB, Hadoop, Spark, Hive):**
+   ```bash
+   docker-compose up -d
+   ```
+3. **Run the PySpark Medallion ETL pipeline:**
+   ```bash
+   docker exec -it spark-master spark-submit /jobs/etl_pipeline.py
+   ```
+4. **Create the Hive External Tables** using the DDL scripts and open the Power BI report (`.pbix`) to explore the interactive dashboard.
